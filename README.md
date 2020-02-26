@@ -1,5 +1,5 @@
 # Birthday-Paradox-Experiments
-''The birthday paradox says that the probability that two people in a room will have the same birthday is more than half, provided n, the number of people in the room, is more than 23. This property is not really a paradox, but many people find it surprising''
+''The birthday paradox says that the probability that two people in a room will have the same birthday is more than half, provided n, the number of people in the room, is more than 23. This property is not really a paradox, but many people find it surprising'' (from Goodrich and Tamassia)
 
 
 Projeyi kısaca özetleyecek olursak elimizde bir şirkete ait n, yani 50,100,500 ve 1000 çalışan bulunmaktadır. Bizden istenen konu ise bu çalışanlar için rastgele doğum tarihleri üreterek çakışan doğum günü sayılarını bulmaktır. Çalışanlar için rastgele doğum tarihi üretilerek n (50,100,500,1000) için oluşan çakışma sayılarını bulmak amaçlanmaktadır. Ayrıca her n değeri için deneyler 10 defa tekrarlanmalıdır. 

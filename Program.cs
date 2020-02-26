@@ -251,5 +251,5 @@ namespace BirthdayParadoxExperiments
             }
         }
     }
-}                                                                                                       // Sergen KARATAŞ 05150000637
-                                                                                                        // Mert GÜLBAHÇE  05150000684
+}                                                                                                     
+                                                                                                       
